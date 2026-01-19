@@ -1,0 +1,8 @@
+.agent/
+chatgpt_research/
+equinor_pdfs/
+Lecture Slides/
+Papers for presentation/
+*.pdf
+*.docx
+temp_*.txt
