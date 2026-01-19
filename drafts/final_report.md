@@ -1,6 +1,6 @@
 # Governing AI and Sustainability at Equinor: Balancing Efficiency, Ethics, and the Twin Transition
 
----
+
 
 **Assignment**: Policy or ethics report on governing the twin transition on an applied firm or organization case
 
@@ -8,7 +8,7 @@
 
 **Focus**: Ethical AI use, workforce reskilling, and responsibility in energy optimisation systems
 
----
+
 
 **Course**: INN503 - Digital Transformation, Innovation and Sustainability
 
@@ -25,7 +25,7 @@
 - Zana Vlahovic
 - Carlos Alfredo Carpio Meza
 
----
+
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -61,7 +61,7 @@ This report argues that efficiency is favored by Equinor's current AI strategy, 
 
 This report first establishes a theoretical framework, then examines Equinor as a case study, analyzes three ethical dilemmas, and finally proposes governance recommendations.
 
----
+
 
 ## 2. Method and Materials
 
@@ -73,7 +73,7 @@ The analytical method involves comparative analysis, measuring Equinor's stated 
 
 There are limitations to acknowledge. This analysis focuses on Equinor's Norwegian operations and AI applications in operational optimization. All data comes from publicly available information; no internal interviews were conducted. The rapidly evolving nature of AI deployment means findings represent a snapshot rather than a complete picture.
 
----
+
 
 ## 3. Theoretical Framework
 
@@ -117,7 +117,7 @@ This analysis assumes that AI deployment represents a governance choice, not a t
 
 Applied to Equinor, these frameworks illuminate a company that has gained worth from AI-$330m since 2020-while cutting a fifth of its renewables workforce. The frameworks predict three dilemmas: efficiency versus workforce (Just Transition), fossil lock-in versus genuine decarbonization (twin transition), and monitoring versus surveillance (RRI inclusion). The following case study documents the evidence.
 
----
+
 
 ## 4. Case Study: Equinor
 
@@ -149,7 +149,7 @@ Equinor publishes sustainability reports and climate targets, participating in i
 
 Three tensions emerge from this case. First, AI optimization of fossil production generates savings but potentially conflicts with climate goals-lowering extraction costs keeps oil profitable longer. Second, the renewables workforce cuts occurred despite AI success, suggesting efficiency gains do not automatically flow toward green employment. Third, the extensive sensor network raises questions about employee monitoring that go beyond equipment optimization. These tensions lead directly to the ethical analysis.
 
----
+
 
 ## 5. Ethical Analysis
 
@@ -185,7 +185,7 @@ Investors increasingly question corporate climate claims. Does Equinor's $330m A
 
 The governance response requires tying AI investments to measurable sustainability outcomes-not just cost savings but verified emission reductions, renewable capacity additions, and transition timeline acceleration.
 
----
+
 
 ## 6. Policy and Governance Options
 
@@ -225,7 +225,7 @@ Santoalha and Boschma (2021) show that green technology diversification requires
 
 **Timeline**: Short-term (0-6 months) for internal carbon pricing framework. Medium-term (6-12 months) for sustainability criteria integration into AI project approval. Long-term (ongoing) for public reporting and third-party verification.
 
----
+
 
 ## 7. Conclusion
 
@@ -239,7 +239,7 @@ For policymakers, the lesson is that AI governance cannot be delegated entirely 
 
 In summary, Equinor should govern AI by establishing ethics oversight, investing in worker reskilling, and aligning AI investments with verified sustainability outcomes. The alternative-celebrating efficiency while cutting workers and extending fossil operations-risks both social legitimacy and the climate goals the company claims to pursue.
 
----
+
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
