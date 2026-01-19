@@ -50,3 +50,6 @@ As a consequence of the findings, efficiency is favored by Equinor rather than p
 - Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. *Research Policy*, 42(9), 1568–1580. https://doi.org/10.1016/j.respol.2013.05.008
 
 ---
+
+
+

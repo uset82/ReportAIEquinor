@@ -4,6 +4,11 @@
 **Option 2**: Governing AI and Sustainability in a Norwegian Energy Company
 **Focus**: Ethical AI use, workforce reskilling, and responsibility in energy optimisation systems
 
+**Group Members**:
+- Elias Klåpbakken Drønen
+- Zana Vlahovic
+- Carlos Alfredo Carpio Meza
+
 ---
 
 
@@ -16,7 +21,7 @@
 
 Why would a state-owned company cut a fifth of its renewable energy workforce while celebrating $330m in AI-driven savings? Equinor's approach to artificial intelligence raises questions that go beyond technology-they touch on governance, ethics, and the so-called "twin transition" where digital and green goals are supposed to work together.
 
-This report examines how Equinor should govern its AI deployment to balance operational efficiency with ethical workforce transition and genuine sustainability commitments. Applying the Responsible Research and Innovation (RRI) framework (Stilgoe et al., 2013) alongside Just Transition guidelines (ILO, 2016), the analysis draws on corporate reports, academic literature, and policy documents.
+This report examines how Equinor should govern its AI deployment to balance operational efficiency with ethical workforce transition and genuine sustainability commitments. The analysis draws on corporate reports, academic literature, and policy documents. It interprets this data using the Responsible Research and Innovation (RRI) framework proposed by Stilgoe et al. (2013) and the Just Transition guidelines established by the ILO (2016).
 
 Out of the analysis three dilemmas are put forward: the tension between AI efficiency and workforce displacement, the risk that AI optimization locks in fossil fuel dependence, and the blurring line between operational monitoring and employee surveillance. Geoffrey Hinton warns that "AI-based displacement will pick up speed by 2026" (CNN, 2025), while Elon Musk suggests that "work will be optional" within decades (Fox Business, 2025).
 
@@ -66,7 +71,7 @@ The **twin transition** refers to the simultaneous pursuit of digitalization and
 
 **Twin Transition Framework**: Müller et al. (2024) demonstrate hidden links between green and digital transitions, showing they can be "put to work together" but also conflict. Abbasiharofteh and Kriesch (2024) warn that "not all twins are identical"-the relationship between digital and green varies by context. Fazio et al. (2025) map how European regions differ in their capacity to manage both transitions simultaneously. For Equinor, this means asking whether AI savings flow toward renewable investment or extend fossil operations.
 
-**Responsible Research and Innovation (RRI)**: Stilgoe et al. (2013) propose four dimensions: anticipation (looking ahead to consequences), reflexivity (questioning assumptions), inclusion (involving stakeholders), and responsiveness (acting on feedback). These dimensions provide a governance checklist. Is Equinor anticipating workforce impacts? Are employees included in AI decisions?
+**Responsible Research and Innovation (RRI)**: Stilgoe et al. (2013) propose four dimensions. Anticipation involves looking ahead to future consequences. Reflexivity requires questioning underlying assumptions. Inclusion means actively involving stakeholders in the process. Responsiveness entails acting on feedback to adjust the course. These dimensions provide a governance checklist. Is Equinor anticipating workforce impacts? Are employees included in AI decisions?
 
 **Just Transition**: The ILO (2016) guidelines establish that decarbonization must protect affected workers through reskilling, social dialogue, and transition support. Acemoglu and Restrepo (2019) add nuance: automation displaces tasks but also creates new ones. The question is not whether jobs change, but whether workers can access emerging roles in data analysis, AI oversight, and human-machine collaboration.
 
@@ -140,7 +145,7 @@ The first dilemma concerns responsible use of AI systems themselves. When algori
 
 "Automation bias" presents a particular risk in safety-critical industries like offshore oil and gas. If operators defer excessively to AI recommendations, the technology becomes a vulnerability rather than a tool. Data governance and privacy concerns extend to the 24,000 sensors collecting operational information-where does equipment monitoring end and employee surveillance begin?
 
-Applying RRI principles, Equinor should demonstrate anticipation (foreseeing how AI decisions affect workers), reflexivity (questioning algorithmic assumptions), inclusion (involving employees in system design), and responsiveness (adjusting when problems emerge). Stilgoe et al. (2013) argue these dimensions distinguish responsible innovation from mere technological deployment.
+Applying RRI principles, Equinor should demonstrate anticipation by foreseeing how AI decisions affect workers before systems are deployed. Reflexivity requires the company to question the algorithmic assumptions driving efficiency. Inclusion means actively involving employees in system design, not just training them on finished tools. Finally, responsiveness entails adjusting these systems when problems or ethical concerns emerge. Stilgoe et al. (2013) argue these dimensions distinguish responsible innovation from mere technological deployment.
 
 The balanced view matters here. Acemoglu and Restrepo (2019) show that automation historically creates new tasks: AI governance roles, data analysis positions, human-machine collaboration specialists. The challenge is ensuring these opportunities reach current workers rather than becoming entirely new hiring categories. Hinton's warning that displacement will "pick up speed" (CNN, 2025) and Musk's prediction of "optional" work (Fox Business, 2025) add urgency-the window for proactive governance may be narrowing.
 
