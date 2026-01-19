@@ -5,4 +5,5 @@ Lecture Slides/
 Papers for presentation/
 *.pdf
 *.docx
+!drafts/final_report.docx
 temp_*.txt

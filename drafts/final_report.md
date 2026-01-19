@@ -1,8 +1,24 @@
 # Governing AI and Sustainability at Equinor: Balancing Efficiency, Ethics, and the Twin Transition
 
+---
+
 **Assignment**: Policy or ethics report on governing the twin transition on an applied firm or organization case
+
 **Option 2**: Governing AI and Sustainability in a Norwegian Energy Company
+
 **Focus**: Ethical AI use, workforce reskilling, and responsibility in energy optimisation systems
+
+---
+
+**Course**: INN503 - Digital Transformation, Innovation and Sustainability
+
+**Institution**: Western Norway University of Applied Sciences (HVL)
+
+**Semester**: Spring 2026
+
+**Word Count**: ~4,000 words
+
+**Date**: January 2026
 
 **Group Members**:
 - Elias Klåpbakken Drønen
@@ -11,11 +27,9 @@
 
 ---
 
-
-**Date**: January 2026
-**MAx Word Count**: ~4,100
-
----
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## Abstract
 
@@ -29,7 +43,9 @@ As a consequence of the findings, this report recommends establishing an AI Ethi
 
 **Keywords**: AI governance, twin transition, Equinor, Just Transition, Responsible Research and Innovation, workforce displacement, sustainability
 
----
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## 1. Introduction
 
@@ -224,6 +240,10 @@ For policymakers, the lesson is that AI governance cannot be delegated entirely 
 In summary, Equinor should govern AI by establishing ethics oversight, investing in worker reskilling, and aligning AI investments with verified sustainability outcomes. The alternative-celebrating efficiency while cutting workers and extending fossil operations-risks both social legitimacy and the climate goals the company claims to pursue.
 
 ---
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
 ## References
 
