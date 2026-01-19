@@ -113,55 +113,68 @@ SCOPE & LIMITATIONS (~20w)
 └── Limitation: no internal interviews
 ```
 
-### Theoretical Framework (~600 words) - Academic Structure
+### Theoretical Framework (~700 words) - 6 Components
 
 **Papers to cite**:
 
-- Paper 49: Müller et al. (2024) - Twin Transition – Hidden Links
+- Paper 49: Müller et al. (2024) - Twin Transition - Hidden Links
 - Paper 05: Abbasiharofteh & Kriesch (2024) - Not all twins are identical
 - Paper 06: Bachtrögler-Unger et al. (2023) - Technological capabilities twin transition
 - Paper 31: Fazio et al. (2025) - Twin innovation transitions
+- Paper 60: Rørheim & Boschma (2022) - Skill-relatedness oil-dependent region
 - Stilgoe et al. (2013) - RRI Framework
 - ILO (2016) - Just Transition
 - Acemoglu & Restrepo (2019) - Automation and new tasks
+- Geels (2002) - Multi-Level Perspective
 
-**5 Components** (Scribbr, Paperpal guidelines):
+**6 Components**:
 
 ```
 COMPONENT 1: KEY CONCEPTS (~100w)
 ├── Define: Twin Transition, AI Governance, Displacement, Just Transition
 ├── AIbypass: Rhetorical question opener
-└── Sentence burstiness: 1 short (<10w) + 1 long (>25w)
+└── Sentence burstiness: short + long sentences
 
-COMPONENT 2: RELEVANT THEORIES (~250w)
-├── Theory 1: Twin Transition [80w]
+COMPONENT 2: RELEVANT THEORIES (~200w)
+├── Theory 1: Twin Transition
 │     Source: Müller et al. (2024), Paper 49, Paper 05
-│     Claim: Digital + green can reinforce OR contradict
-│     AIbypass: "put to work together" not "synergize"
-├── Theory 2: RRI [80w]
+│     Digital + green can reinforce OR contradict
+├── Theory 2: RRI
 │     Source: Stilgoe et al. (2013)
 │     4 Dimensions: Anticipation, Reflexivity, Inclusion, Responsiveness
-│     AIbypass: "looking ahead" not "anticipatory governance"
-└── Theory 3: Just Transition [80w]
-      Source: ILO (2016), Paper 57
+└── Theory 3: Just Transition
+      Source: ILO (2016)
       + Balanced: Acemoglu & Restrepo (2019) - new tasks emerge
 
-COMPONENT 3: RELATIONSHIPS BETWEEN THEORIES (~100w)
-├── How frameworks connect to each other
+COMPONENT 3: COURSE CONCEPTS - INN503 (~200w) [NEW]
+├── Socio-Technical Systems (Geels MLP)
+│     Niches, Regimes, Landscapes - separate sentences, no parentheses
+├── Lock-ins and Path Dependence
+│     Technological, Skill, Fossil lock-in - explain each in own sentence
+├── Platform Power and Algorithmic Management
+│     Omnia platform, 24,000 sensors, surveillance questions
+├── Data Governance
+│     Who owns data? Power asymmetries
+└── Uneven Effects
+      Winners and losers across regions (Rørheim & Boschma, 2022)
+
+COMPONENT 4: RELATIONSHIPS BETWEEN THEORIES (~100w)
 ├── Twin Transition → reveals tension
 ├── RRI → provides governance principles
-└── Just Transition → ensures worker protection
+├── Just Transition → ensures worker protection
+├── Course concepts → explain WHY governance is difficult
+└── Lock-ins and platform power constrain options
 
-COMPONENT 4: ASSUMPTIONS (~80w)
-├── AI deployment = governance choice, not technical necessity
+COMPONENT 5: ASSUMPTIONS (~70w)
+├── AI deployment = governance choice
 ├── Efficiency gains can be distributed fairly or unfairly
-├── Workers have legitimate interests in decisions
+├── Workers have legitimate interests
 └── Digital and green goals can conflict
 
-COMPONENT 5: INTEGRATION WITH THIS STUDY (~70w)
+COMPONENT 6: INTEGRATION WITH THIS STUDY (~50w)
 ├── Apply to Equinor: $330m AI vs 250 job cuts
 ├── Connect to 3 dilemmas
-└── Link to next section (Case Study)
+└── Link to next section
 ```
 
 ### Case Study: Equinor (~800 words) - 6 Components from PDF
@@ -265,7 +278,7 @@ DILEMMA 3: AUTHENTIC SUSTAINABILITY COMMITMENTS (~300w)
 └── Sources: Müller et al. (2024), Paper 57
 ```
 
-### Recommendations (~600 words) - 3 Prioritized from PDF
+### Policy and Governance Options (~700 words) - 3 Prioritized with Trade-offs
 
 **Papers to cite**:
 
@@ -278,33 +291,50 @@ DILEMMA 3: AUTHENTIC SUSTAINABILITY COMMITMENTS (~300w)
 
 ```
 OPENING (~60w)
-└── Based on analysis, propose governance improvements
+└── Based on analysis, propose governance options with explicit trade-offs
 
-RECOMMENDATION 1: AI ETHICS & GOVERNANCE FRAMEWORK [Highest Priority] (~180w)
-├── AI Ethics Committee/Board
-├── Cross-functional: digital, operations, ethics/compliance
-├── Routine AI audits (bias, safety)
-├── Risk mitigation practices
-├── EU AI Act compliance
-├── Timeline: 3-6 months
+OPTION 1: AI ETHICS & GOVERNANCE FRAMEWORK [Highest Priority] (~200w)
+├── AI Ethics Committee with cross-functional representation
+├── Routine AI audits for bias, safety, workforce impacts
+├── Operationalize RRI 4 dimensions
+├── TRADE-OFFS:
+│     - Governance adds costs, slows decisions
+│     - Trade-off: speed-to-value vs responsible deployment
+│     - Avoiding investment risks regulatory penalties, reputational damage
+├── TIMELINE:
+│     - Short-term (3-6 months): committee establishment
+│     - Long-term (12-24 months): full integration into project approval
 └── Source: Stilgoe (2013), EU AI Act
 
-RECOMMENDATION 2: WORKFORCE RESKILLING [High Priority] (~180w)
+OPTION 2: WORKFORCE RESKILLING [High Priority] (~220w)
 ├── Skills gap assessment
-├── Training programs (internal + partners)
-├── Change management plan
-├── New roles: data steward, AI lead
-├── "AI will not replace but empower"
-├── Measure: employees retrained, mobility rates
+├── Training programs for emerging roles
+├── Change management with social dialogue
+├── TRADE-OFFS:
+│     - Reskilling requires upfront investment, uncertain returns
+│     - Not all workers will successfully transition
+│     - Trade-off: invest in current employees vs external hiring
+│     - External hiring destroys institutional knowledge
+├── TIMELINE:
+│     - Short-term (0-6 months): skills assessment
+│     - Medium-term (6-18 months): training rollout
+│     - Long-term (ongoing): continuous learning infrastructure
+├── METRICS: employees retrained, mobility rates, time-to-placement
 └── Source: ILO (2016), Acemoglu (2019)
 
-RECOMMENDATION 3: ALIGN AI WITH SUSTAINABILITY [Medium Priority] (~180w)
+OPTION 3: ALIGN AI WITH SUSTAINABILITY [Medium Priority] (~220w)
 ├── Sustainability criteria for AI projects
-├── Internal carbon cost
-├── Publish CO2 savings metrics
-├── Joint review: Sustainability + Digital teams
-├── Avoid greenwashing
-└── Source: Müller et al. (2024), IEA
+├── Internal carbon pricing
+├── Publish CO2 metrics attributable to AI
+├── TRADE-OFFS:
+│     - May exclude profitable optimization projects
+│     - Trade-off: short-term value vs decarbonization credibility
+│     - Investors discount perceived greenwashing
+├── TIMELINE:
+│     - Short-term (0-6 months): carbon pricing framework
+│     - Medium-term (6-12 months): criteria integration
+│     - Long-term (ongoing): public reporting, third-party verification
+└── Source: Müller et al. (2024), Santoalha & Boschma (2021)
 ```
 
 ### Conclusion (~350 words) - 3 Components from PDF
